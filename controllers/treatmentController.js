@@ -1,6 +1,7 @@
 const User = require('../models/user');
 const Treatment = require('../models/treatment');
 const TreatmentCategory = require('../models/treatmentCategory');
+const Hospital = require('../models/hospital');
 const {successResponse, errorResponse} = require('../utils/functions');
 
 const searchTreatments = async (req, res) => {
