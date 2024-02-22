@@ -82,7 +82,7 @@ const treatmentsByCategory = async (req, res) => {
         }).populate('category').populate('hospital');
 
         if(longitude && latitude) {
-            const treatmentsWithDistance = treatmentsByName.map((treatment) => {
+            const treatmentsWithDistance = treatments.map((treatment) => {
                 const hospital = treatment.hospital;
                 const distance = calculateDistance(parseFloat(latitude), parseFloat(longitude), hospital.address.latitude, hospital.address.longitude);
                 return { treatment, distance };
