@@ -42,8 +42,10 @@ async function seedData() {
         // Create hospital
         hospitals.add({
           name: hospital.trim(),
-          longitude: cleanLongitude,
-          latitude: cleanLatitude,
+          address: {
+              longitude: cleanLongitude,
+              latitude: cleanLatitude,
+          }
         });
 
         // Add treatment
