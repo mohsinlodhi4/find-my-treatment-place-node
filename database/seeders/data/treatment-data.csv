@@ -1,0 +1,49 @@
+S.No,Treatment,Cost,Category,Hostipital,Latitude,Longitude
+1,Fillings,"6,000",dentals,Hash Clinic,24.84397304,67.05520437
+2,Fillings,5000,dentals,Barkat Clinic & Dental Surgery,24.9144275,67.08075068
+3,Fillings,5500,dentals,Siddiqis Executive Clinics,24.8666998,67.02341466
+4,Fillings,4500,dentals,QUICK CARE MEDICAL & DENTAL CLINIC,24.88422448,67.14551692
+5,Braces,250000,dentals,Hash Clinic,24.84397304,67.05520437
+6,Braces,350000,dentals,Barkat Clinic & Dental Surgery,24.9144275,67.08075068
+7,Braces,300000,dentals,Siddiqis Executive Clinics,24.8666998,67.02341466
+8,Braces,400000,dentals,QUICK CARE MEDICAL & DENTAL CLINIC,24.88422448,67.14551692
+9,Veneers,"50,000",dentals,Hash Clinic,24.84397304,67.05520437
+10,Veneers,"60,000",dentals,Barkat Clinic & Dental Surgery,24.9144275,67.08075068
+11,Veneers,"45,000",dentals,Siddiqis Executive Clinics,24.8666998,67.02341466
+12,Veneers,"70,000",dentals,QUICK CARE MEDICAL & DENTAL CLINIC,24.88422448,67.14551692
+13,Root canal,"5,000",dentals,Hash Clinic,24.84397304,67.05520437
+14,Root canal,"3,000",dentals,Barkat Clinic & Dental Surgery,24.9144275,67.08075068
+15,Root canal,"4,000",dentals,Siddiqis Executive Clinics,24.8666998,67.02341466
+16,Root canal,"6,000",dentals,QUICK CARE MEDICAL & DENTAL CLINIC,24.88422448,67.14551692
+17,Microneedling,"10,000",Skin,Dr khilji faisal arif the skin clinic,24.81855361,67.03959727
+18,Microneedling,"8,000",Skin,SSJ Skin Clinic,24.95118796,67.05889782
+19,Microneedling,"16,000",Skin,Skin Xperts Clinic,24.97602216,67.06043081
+20,Microneedling,"12,000",Skin,Derm MD Care,24.92980881,67.09342077
+21,Laser hair removal,"15,000",Skin,Dr khilji faisal arif the skin clinic,24.81855361,67.03959727
+22,Laser hair removal,"20,000",Skin,SSJ Skin Clinic,24.95118796,67.05889782
+23,Laser hair removal,"12,000",Skin,Skin Xperts Clinic,24.97602216,67.06043081
+24,Laser hair removal,"10,000",Skin,Derm MD Care,24.92980881,67.09342077
+25,Microdermabrasion,"4,000",Skin,Dr khilji faisal arif the skin clinic,24.81855361,67.03959727
+26,Microdermabrasion,"3,500",Skin,SSJ Skin Clinic,24.95118796,67.05889782
+27,Microdermabrasion,"5,000",Skin,Skin Xperts Clinic,24.97602216,67.06043081
+28,Microdermabrasion,"4,500",Skin,Derm MD Care,24.92980881,67.09342077
+29,Laser skin resurfacing,"5,000",Skin,Dr khilji faisal arif the skin clinic,24.81855361,67.03959727
+30,Laser skin resurfacing,"4,000",Skin,SSJ Skin Clinic,24.95118796,67.05889782
+31,Laser skin resurfacing,"4,500",Skin,Skin Xperts Clinic,24.97602216,67.06043081
+32,Laser skin resurfacing,"4,000",Skin,Derm MD Care,24.92980881,67.09342077
+33,Cataract surgery,"190,000",Eye Care,A.kareem eye hospital,24.93842167,67.07902725
+34,Cataract surgery,"150,000",Eye Care,Al-Noor Eye clinic,24.931642,67.07867999
+35,Cataract surgery,"200,000",Eye Care,Al Shifa Eye Hospital,24.9725031,67.05384957
+36,Cataract surgery,"170,000",Eye Care,Park View Eye Hospital,24.92382281,67.11485427
+37,Corneal transplant,"320,000",Eye Care,A.kareem eye hospital,24.93842167,67.07902725
+38,Corneal transplant,"300,000",Eye Care,Al-Noor Eye clinic,24.931642,67.07867999
+39,Corneal transplant,"350,000",Eye Care,Al Shifa Eye Hospital,24.9725031,67.05384957
+40,Corneal transplant,"340,000",Eye Care,Park View Eye Hospital,24.92382281,67.11485427
+41,Glaucoma surgeries,"110,000",Eye Care,A.kareem eye hospital,24.93842167,67.07902725
+42,Glaucoma surgeries,"130,000",Eye Care,Al-Noor Eye clinic,24.931642,67.07867999
+43,Glaucoma surgeries,"140,000",Eye Care,Al Shifa Eye Hospital,24.9725031,67.05384957
+44,Glaucoma surgeries,"120,000",Eye Care,Park View Eye Hospital,24.92382281,67.11485427
+45,Retina surgeries,"60,000",Eye Care,A.kareem eye hospital,24.93842167,67.07902725
+46,Retina surgeries,"50,000",Eye Care,Al-Noor Eye clinic,24.931642,67.07867999
+47,Retina surgeries,"45,000",Eye Care,Al Shifa Eye Hospital,24.9725031,67.05384957
+48,Retina surgeries,"55,000",Eye Care,Park View Eye Hospital,24.92382281,67.11485427
